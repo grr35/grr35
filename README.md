@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python 3 and Machine Learning
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me with: grr35.joul@gmail.com
 
 <!---
 grr35/grr35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
